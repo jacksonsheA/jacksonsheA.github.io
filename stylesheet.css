@@ -1,0 +1,8 @@
+body {
+  background-image: url('https://media.giphy.com/media/X8XV2CchxgPrW/giphy.gif');
+  background-size: cover;
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 13.5px;
+  line-height: 21.6px; /*13.5*1.6 */
+}
